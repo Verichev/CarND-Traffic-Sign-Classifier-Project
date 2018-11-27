@@ -19,9 +19,9 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./images/histogram.png "Histogram"
-[image2]: ./images/sign_sample.jpg "Sample of dataset"
-[image3]: ./images/grayscale_and_normialize.jpg "Prepare image"
+[image1]: ./images/hist.png "Histogram"
+[image2]: ./images/sign_sample.png "Sample of dataset"
+[image3]: ./images/grayscale_and_normalize.png "Prepare image"
 [image4]: ./traffic_signs/sign1.png "Traffic Sign 1"
 [image5]: ./traffic_signs/sign2.png "Traffic Sign 2"
 [image6]: ./traffic_signs/sign3.png "Traffic Sign 3"
